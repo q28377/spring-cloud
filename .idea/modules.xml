@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/spring-cloud.iml" filepath="$PROJECT_DIR$/spring-cloud.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-cloud-config-client/spring-cloud-config-client.iml" filepath="$PROJECT_DIR$/spring-cloud-config-client/spring-cloud-config-client.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-cloud-config-server/spring-cloud-config-server.iml" filepath="$PROJECT_DIR$/spring-cloud-config-server/spring-cloud-config-server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-cloud-eureka-client/spring-cloud-eureka-client.iml" filepath="$PROJECT_DIR$/spring-cloud-eureka-client/spring-cloud-eureka-client.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-cloud-eureka-client2/spring-cloud-eureka-client2.iml" filepath="$PROJECT_DIR$/spring-cloud-eureka-client2/spring-cloud-eureka-client2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-cloud-eureka-server/spring-cloud-eureka-server.iml" filepath="$PROJECT_DIR$/spring-cloud-eureka-server/spring-cloud-eureka-server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-cloud-eureka-server2/spring-cloud-eureka-server2.iml" filepath="$PROJECT_DIR$/spring-cloud-eureka-server2/spring-cloud-eureka-server2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-cloud-feign-aaa-server/spring-cloud-feign-aaa-server.iml" filepath="$PROJECT_DIR$/spring-cloud-feign-aaa-server/spring-cloud-feign-aaa-server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-cloud-feign-bbb-server/spring-cloud-feign-bbb-server.iml" filepath="$PROJECT_DIR$/spring-cloud-feign-bbb-server/spring-cloud-feign-bbb-server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-cloud-feign-server/spring-cloud-feign-server.iml" filepath="$PROJECT_DIR$/spring-cloud-feign-server/spring-cloud-feign-server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-cloud-ribbon-server/spring-cloud-ribbon-server.iml" filepath="$PROJECT_DIR$/spring-cloud-ribbon-server/spring-cloud-ribbon-server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-cloud-zipkin-server/spring-cloud-zipkin-server.iml" filepath="$PROJECT_DIR$/spring-cloud-zipkin-server/spring-cloud-zipkin-server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-cloud-zipkin-server-hi/spring-cloud-zipkin-server-hi.iml" filepath="$PROJECT_DIR$/spring-cloud-zipkin-server-hi/spring-cloud-zipkin-server-hi.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-cloud-zipkin-server-miya/spring-cloud-zipkin-server-miya.iml" filepath="$PROJECT_DIR$/spring-cloud-zipkin-server-miya/spring-cloud-zipkin-server-miya.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-cloud-zuul-server/spring-cloud-zuul-server.iml" filepath="$PROJECT_DIR$/spring-cloud-zuul-server/spring-cloud-zuul-server.iml" />
+    </modules>
+  </component>
+</project>
